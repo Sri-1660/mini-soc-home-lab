@@ -16,7 +16,7 @@ workflow.
 A Python + Groq AI layer was also developed to assist with analysis
 of Wazuh security alerts.
 
----
+🎥 Project Demo: https://drive.google.com/file/d/1P9itA-LQEAFvkKZn3QgQNmvsnMPRfV9_/view?usp=drive_link
 
 ## Architecture
 
